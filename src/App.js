@@ -2,7 +2,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <span style={{ color: 'red' }}>Demo </span>
+      <span style={{ color: 'white' }}>Demo </span>
     </div>
   );
 }
